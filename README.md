@@ -42,3 +42,9 @@ Driver Drowsiness Detection is an innovative solution to help prevent accidents 
 1. Clone the repository:
    ```bash
    git clone https://github.com/yourusername/driver-drowsiness-detection.git
+## usage
+1.Connect your mobile device or start an emulator.
+2.Run the application:
+```bash
+flutter run
+

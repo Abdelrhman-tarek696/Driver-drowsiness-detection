@@ -11,8 +11,7 @@ A mobile application aimed at improving road safety by detecting driver drowsine
 - [Usage](#usage)
 - [Model Training](#model-training)
 - [Technologies Used](#technologies-used)
-- [Contributing](#contributing)
-- [License](#license)
+
 
 ## Introduction
 
@@ -47,6 +46,28 @@ Driver Drowsiness Detection is an innovative solution to help prevent accidents 
 
 2.Run the application:
   ```bash
-flutter run
+ flutter run
+```
+##    Model Training
+The machine learning model was trained using a Convolutional Neural Network (CNN) with the following steps:
+
+1.Data Collection: Gathered a dataset of images of drivers in alert and drowsy states.
+
+2.Preprocessing: Cleaned and labeled the dataset.
+
+3.Training: Used TensorFlow to train the CNN model.
+
+4.Conversion: Converted the trained model to TensorFlow Lite format for mobile integration.
 
 
+## Technologies Used
+
+-Flutter: For building the cross-platform mobile application.
+
+-Dart: Programming language used for Flutter.
+
+-TensorFlow Lite: For integrating the machine learning model into the mobile application.
+
+-CNN: Convolutional Neural Network algorithm for training the model.
+
+-UI/UX Design: Custom designs for a user-friendly interface.

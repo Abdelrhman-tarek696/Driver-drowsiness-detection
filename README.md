@@ -29,12 +29,14 @@ Driver Drowsiness Detection is an innovative solution to help prevent accidents 
 
 ### Welcome Screen
 
-![Welcome Screen](screenshots/welcome_screen.jpg)
+
+<img src="screenshots/welcome_screen.jpg" alt="Welcome Screen" width="300">
 
 ### Driver Detection Screens(Eyes closed and opened)
 
-![Eyes Opened](screenshots/Eye_opened.jpg)
-![Eyes Closed](./screenshots/Eye_closed.jpg)
+<img src="screenshots/Eye_opened.jpg" alt="Driver Alert" width="300">
+
+<img src="screenshots/Eye_closed.jpg" alt="Driver Drowsy" width="300">
 
 ## Installation
 

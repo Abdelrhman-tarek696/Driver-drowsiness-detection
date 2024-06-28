@@ -78,5 +78,5 @@ The machine learning model was trained using a Convolutional Neural Network (CNN
 ## Demo
 
 there's a demo video and linkedin post 
-```bash
+
 https://www.linkedin.com/posts/abdelrhman-tarek-042231173_graduationproject-flutter-machinelearning-activity-7211960542716960768-jsyl?utm_source=share&utm_medium=member_desktop

@@ -11,6 +11,7 @@ A mobile application aimed at improving road safety by detecting driver drowsine
 - [Usage](#usage)
 - [Model Training](#model-training)
 - [Technologies Used](#technologies-used)
+- [Demo](#Demo)
 
 
 ## Introduction
@@ -73,3 +74,9 @@ The machine learning model was trained using a Convolutional Neural Network (CNN
 -CNN: Convolutional Neural Network algorithm for training the model.
 
 -UI/UX Design: Custom designs for a user-friendly interface.
+
+## Demo
+
+there's a demo video and linkedin post 
+```bash
+https://www.linkedin.com/posts/abdelrhman-tarek-042231173_graduationproject-flutter-machinelearning-activity-7211960542716960768-jsyl?utm_source=share&utm_medium=member_desktop
